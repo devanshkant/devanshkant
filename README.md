@@ -40,5 +40,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshkantkashyap@gmail.com)
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=devanshkant&color=red&style=flat-square&label=Visitors+Count" />
+  <br>
 💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
