@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Web Development and Machine Learning
 - ➡️ I'm looking to collaborate on Web Dev Projects 
-- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> <a href ="mailto:devanshkantkashyap@gmail.com"> Email</a>
+- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> 
 
 ## Tech Stack
 
@@ -38,7 +38,6 @@
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-kant-kashyap-889742319/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshkantkashyap@gmail.com)
 
 ---
 <img src="https://komarev.com/ghpvc/?username=devanshkant&color=red&style=flat-square&label=Visitors+Count" />
